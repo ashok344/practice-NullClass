@@ -1,0 +1,51 @@
+ 
+ ul{
+  display: flex;
+  background-color: azure;
+  height: 50px;
+  justify-content: space-evenly;
+  align-items: center;
+ }
+ 
+ ul li{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(135, 179, 222);
+  border-radius: 5px;
+  margin-right: 20px;
+}
+li a{
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+.button{
+  background-color: aqua;
+  color: blue;
+  margin: 100px;
+  padding:10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-decoration: none;
+}
+button{
+  background-color: aqua;
+  color: blue;
+  margin: 100px;
+  padding:10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.image{
+  float: right;
+  border-radius: 10px;
+}
+section{
+  height: 200px;
+  background-color: lightblue;
+}
